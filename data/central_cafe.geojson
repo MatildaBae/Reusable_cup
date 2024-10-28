@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "index": 7532, "cafe_nm": "메가엠지씨커피구로깔깔", "Latitude": 37.4829732, "Longitude": 126.9010339, "scores": -0.51026389819164464 }, "geometry": { "type": "Point", "coordinates": [ 126.901033900000016, 37.4829732 ] } }
+]
+}
