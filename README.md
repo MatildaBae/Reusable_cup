@@ -1,5 +1,8 @@
 # ♻️ Location Selection for Reusable Cup Return Stations in Seoul & Service Optimization
 
+**2024 5th Data Analysis for Business (DAB) Competition, Korea University**
+*3th Place - November 2024*
+
 **Team Dolrido**  
 *Members: Kim Na-yeon (Statistics), Kim Ye-eun (Statistics), Bae Ji-won (Economics), Jeong Ha-yeon (Business), Choi Joo-hee (Media Studies)*  
 
@@ -61,6 +64,9 @@ This project demonstrates the environmental and economic benefits of implementin
 ---
 
 # ♻️ 서울시 다회용컵 반납기 입지 선정 및 서비스 고도화 방안
+
+**2024 Data Analysis for Business (DAB) 제5회 경진대회, 고려대 경영대학**
+*장려상 - 2024년 11월*
 
 **Team Dolrido**  
 *팀원: 김나연 (통계학), 김예은 (통계학), 배지원 (경제학), 정하연 (경영학), 최주희 (미디어학부)*  
